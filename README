@@ -1,1 +1,2 @@
 This project aims to design a directed loan graph to track debts dynamically, and apply greedy algorithm to compute the most efficient way to settle debts, minimizing the number and value of transactions. We also want to calculate Most Influential user by using one of the shortest path algorithms. Expected Outcomes are minimized debt chains, optimal settlement paths, reduced number of transactions to clear debts.
+Website for users to interact and visualize was also made and screenshots are attached in the repo.
