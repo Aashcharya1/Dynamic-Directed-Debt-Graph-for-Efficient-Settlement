@@ -11,7 +11,7 @@ A smart platform to simplify group debts, minimize transactions, and visualize s
 Real-time, directed loan graph to track who owes whom.
 
 ⚡ Greedy Settlement Algorithm:
-Automatically computes the most efficient way to settle debts, minimizing both the number and total value of transactions.
+Computes the most efficient way to settle debts, minimizing both the number and total value of transactions.
 
 🏅 Most Influential User:
 Identifies the key user in your debt network using shortest path algorithms.
@@ -22,26 +22,11 @@ Simplifies complex debt cycles and optimizes settlement paths.
 🌐 Interactive Visualization:
 Explore and understand your debt network visually through an intuitive web interface.
 
-🖥️ Screenshots
-Debt Graph Visualization	Optimal Settlement Paths
-![Debt Graph Screenshot](./screenshots ![Settlement Screenshot](./screenshots/settlement️ Tech Stack & Tools	
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" /> </p>
-📦 How to Use
-Clone the repository
-git clone https://github.com/your-username/debt-settlement-optimizer.git
+🛠️ Tech Stack
+<p align="center" style="font-size:1.3em;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js" title="Chart.js" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel" />&nbsp; </p>
 
-Install dependencies
-npm install
 
-Start the app
-npm start
-
-Open in browser
-Visit http://localhost:3000 to interact and visualize your debt network!
-
-📬 Connect
-[![LinkedIn](https://img.shields.io/badge/Linkedmail](https://img.shields.io/badge/Email-grey?logo=gmail Expected Outcomes
-
+🎯 Expected Outcomes
 Fewer and smaller transactions to clear all debts
 
 Optimized and transparent settlement paths
