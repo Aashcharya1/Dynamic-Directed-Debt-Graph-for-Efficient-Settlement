@@ -1,2 +1,33 @@
-This project aims to design a directed loan graph to track debts dynamically, and apply greedy algorithm to compute the most efficient way to settle debts, minimizing the number and value of transactions. We also want to calculate Most Influential user by using one of the shortest path algorithms. Expected Outcomes are minimized debt chains, optimal settlement paths, reduced number of transactions to clear debts.
-Website for users to interact and visualize was also made and screenshots are attached in the repo.
+Visualizer website link - https://debt-settlement-visualizer.vercel.app/
+💸 Debt Settlement Optimizer
+Efficiently track, manage, and settle debts with our dynamic loan graph platform!
+Visualize your debt network, minimize transactions, and discover the most influential users—all in one interactive website.
+
+🚀 Project Highlights
+📈 Dynamic Debt Tracking:
+Build and update a directed loan graph to represent who owes whom in real-time.
+
+⚡ Greedy Debt Settlement:
+Apply a greedy algorithm to compute the most efficient way to clear debts, minimizing both the number and total value of transactions.
+
+🏆 Most Influential User:
+Identify the key user in your debt network using advanced shortest path algorithms.
+
+🔗 Minimized Debt Chains:
+Automatically simplify complex debt cycles, reducing unnecessary transactions and optimizing settlement paths.
+
+🌐 Interactive Visualization:
+Explore your debt network visually through our user-friendly web interface.
+(Check out screenshots in the repo!)
+
+🎯 Expected Outcomes
+Fewer and smaller transactions to clear all debts
+
+Optimized and transparent debt settlement paths
+
+Easy identification of influential users in the network
+
+Intuitive, real-time visualization of debt relationships
+
+✨ Start optimizing your group’s finances today!
+(Deployed with Vercel for lightning-fast performance.)
