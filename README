@@ -3,31 +3,52 @@ Visualizer website link - https://debt-settlement-visualizer.vercel.app/
 Efficiently track, manage, and settle debts with our dynamic loan graph platform!
 Visualize your debt network, minimize transactions, and discover the most influential users—all in one interactive website.
 
-🚀 Project Highlights
-📈 Dynamic Debt Tracking:
-Build and update a directed loan graph to represent who owes whom in real-time.
+🚀 Project Overview
+A smart platform to simplify group debts, minimize transactions, and visualize settlements.
 
-⚡ Greedy Debt Settlement:
-Apply a greedy algorithm to compute the most efficient way to clear debts, minimizing both the number and total value of transactions.
+🌟 Features
+📊 Dynamic Debt Graph:
+Real-time, directed loan graph to track who owes whom.
 
-🏆 Most Influential User:
-Identify the key user in your debt network using advanced shortest path algorithms.
+⚡ Greedy Settlement Algorithm:
+Automatically computes the most efficient way to settle debts, minimizing both the number and total value of transactions.
+
+🏅 Most Influential User:
+Identifies the key user in your debt network using shortest path algorithms.
 
 🔗 Minimized Debt Chains:
-Automatically simplify complex debt cycles, reducing unnecessary transactions and optimizing settlement paths.
+Simplifies complex debt cycles and optimizes settlement paths.
 
 🌐 Interactive Visualization:
-Explore your debt network visually through our user-friendly web interface.
-(Check out screenshots in the repo!)
+Explore and understand your debt network visually through an intuitive web interface.
 
-🎯 Expected Outcomes
+🖥️ Screenshots
+Debt Graph Visualization	Optimal Settlement Paths
+![Debt Graph Screenshot](./screenshots ![Settlement Screenshot](./screenshots/settlement️ Tech Stack & Tools	
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" /> </p>
+📦 How to Use
+Clone the repository
+git clone https://github.com/your-username/debt-settlement-optimizer.git
+
+Install dependencies
+npm install
+
+Start the app
+npm start
+
+Open in browser
+Visit http://localhost:3000 to interact and visualize your debt network!
+
+📬 Connect
+[![LinkedIn](https://img.shields.io/badge/Linkedmail](https://img.shields.io/badge/Email-grey?logo=gmail Expected Outcomes
+
 Fewer and smaller transactions to clear all debts
 
-Optimized and transparent debt settlement paths
+Optimized and transparent settlement paths
 
-Easy identification of influential users in the network
+Easy identification of influential users
 
-Intuitive, real-time visualization of debt relationships
+Real-time, intuitive debt visualization
 
 ✨ Start optimizing your group’s finances today!
 (Deployed with Vercel for lightning-fast performance.)
